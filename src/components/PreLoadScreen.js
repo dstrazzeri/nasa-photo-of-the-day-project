@@ -25,7 +25,7 @@ export default class PreLoadScreen extends Component {
     return (
       <div className="preload" id="preload" ref={this.PreLoadScreen}>
         <div className="logo">
-          <h1 className="preloadHeader">Space Project</h1>
+          <h1 className="preloadHeader">IN A GALAXY FAR, FAR AWAY...</h1>
         </div>
         <div className="loader-frame">
           <div className="loader1" id="loader1" />
