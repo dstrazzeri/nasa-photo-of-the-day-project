@@ -15,7 +15,7 @@ body {
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #14213d;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -33,7 +33,7 @@ h1,
 h3,
 p {
   font-family: "Roboto", sans-serif;
-  color: white;
+  color: yellow;
 }
 
 h1 {
